@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 data/transactions.csv
 
+.DS_Store
